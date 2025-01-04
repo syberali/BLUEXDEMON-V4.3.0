@@ -1,14 +1,14 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "923192084504"
 
-global.botNumber = ["2349019529423"]
+global.botNumber = ["923192084504"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
 global.egg = "15"
 global.loc = "1"
-global.anticall = false
+global.anticall = ture
 global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
